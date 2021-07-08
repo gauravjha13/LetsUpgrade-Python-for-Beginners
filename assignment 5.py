@@ -1,4 +1,5 @@
-num = int(input("Enter a number: "))  
+# Assignment - 5
+#Build a function for finding if a number is prime or not.
  
 if num > 1:  
    for i in range(2,num):  
